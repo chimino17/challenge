@@ -1,0 +1,10 @@
+.container-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 15px;
+}
+.additional-text {
+  text-align: center;
+  color: #444;
+  font-size: 20px;
+}

@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+  padding-bottom: 15px;
+  color: #444;
+  text-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  font-size: 50px;
+}
+
+.loading-text {
+  text-align: center;
+  color: #444;
+  text-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  font-size: 40px;
+}

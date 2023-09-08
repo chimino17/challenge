@@ -1,0 +1,1 @@
+export const API_BANKS = "https://dev.obtenmas.com"
